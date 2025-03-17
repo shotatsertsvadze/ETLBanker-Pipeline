@@ -73,27 +73,8 @@ Monitor AWS Lambda Execution:
 aws logs describe-log-groups
 
 
-🎯 Next Steps
-✅ Enhance Data Transformations (e.g., fraud detection, currency conversion)
-✅ Store Processed Data in AWS Redshift or Athena for analytics
-✅ Implement CI/CD with AWS CodePipeline to automate Terraform & Lambda updates
 
 
 
-📜 License
-This project is licensed under the MIT License.
 
 
----
-
-### **✅ Key Improvements in This Version**
-✔ **Clearer project explanation & ETL process overview**  
-✔ **Improved setup instructions & testing steps**  
-✔ **Formatted project structure for better readability**  
-✔ **Contact section & next steps for improvement**  
-
-🚀 **Now update your `README.md` and push it to GitHub!**  
-```bash
-git add README.md
-git commit -m "Updated README with better structure & instructions"
-git push origin main
