@@ -2,3 +2,4 @@ echo "venv/" >> .gitignore
 echo "__pycache__/" >> .gitignore
 echo ".terraform/" >> .gitignore
 echo "*.dylib" >> .gitignore
+echo "*.zip" >> .gitignore
